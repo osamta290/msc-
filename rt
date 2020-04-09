@@ -1,0 +1,2 @@
+e='osama'
+print(hi {}.format(e))
